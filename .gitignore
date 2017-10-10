@@ -1,5 +1,9 @@
 *.cbp
+
 *.depend
+
 *.exe
+
 obj/
+
 bin/
